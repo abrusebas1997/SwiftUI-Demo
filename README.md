@@ -2,7 +2,7 @@
 First demo for SwiftUi
 
 ### Basic App Walk-through
-![](ezgif.com-video-to-gif.gif)
+![](ezgif.com-resize (1).gif)
 
 
 ### Run Locally
